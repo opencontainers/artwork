@@ -2,4 +2,5 @@
 
 This repository contains OCI artwork and logos in a variety of formats.
 
-![Image of OCI Logo](logo.png)
+!<img src="/oci/horizontal/color/oci-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/oci/stacked/color/oci-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/oci/icon/color/oci-icon-color.png" width="80">
+
