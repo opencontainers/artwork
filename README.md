@@ -8,20 +8,21 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
     <tr>
-<th colspan="8"></th>
+        <th colspan="8"></th>
     </tr>
        <tr>
+ 
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
-  	    <th>stacked</th>
+  	<th>stacked</th>
         <th>icon</th>
     </tr>
     <tr>
-        <td><img src="/projects/volcano/horizontal/color/volcano-horizontal-color.png" width="200"></td>
+        <td><img src="icons/oci_icon_2fa.svg" width="100"></td>
         <td><img src="/projects/volcano/stacked/color/volcano-stacked-color.png" width="95"></td>
         <td><img src="/projects/volcano/icon/color/volcano-icon-color.png" width="75"></td>
         <td><img src="/projects/volcano/horizontal/color/volcano-horizontal-color.svg" width="200"></td>
