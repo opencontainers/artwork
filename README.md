@@ -7,6 +7,18 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 
 <table>
+<tr>
+        <td style="10%"><img src="icons/oci_icon_2fa.svg" style="width:75px" width="75"></td>
+        <td style="10%"><img src="icons/oci_icon_api.svg" width="75"></td>
+        <td style="10%"><img src="icons/oci_icon_authentication.svg" width="75"></td>
+        <td><img src="icons/oci_icon_batch.svg" width="75"></td>
+        <td><img src="icons/oci_icon_billing.svg" width="75"></td>
+        <td><img src="icons/oci_icon_cdn.svg" width="75"></td>
+        <td><img src="icons/oci_icon_cli.svg" width="75"></td>
+        <td><img src="icons/oci_icon_cloud.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_cloud.svg" width="75"></td>
+        <td><img src="icons/oci_icon_configservice.svg" width="75"></td>
+    </tr>
  	<tr>
 	<th style="width:10%">2fa</th>
         <th style="width:10%">api</th>
@@ -19,31 +31,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th style="width:10%">cloud</th>
         <th style="width:10%">configservice</th>
     </tr>
-    <tr>
-        <td style="10%"><img src="icons/oci_icon_2fa.svg" style="width:75px" width="75"></td>
-        <td style="10%"><img src="icons/oci_icon_api.svg" width="75"></td>
-        <td style="10%"><img src="icons/oci_icon_authentication.svg" width="75"></td>
-        <td><img src="icons/oci_icon_batch.svg" width="75"></td>
-        <td><img src="icons/oci_icon_billing.svg" width="75"></td>
-        <td><img src="icons/oci_icon_cdn.svg" width="75"></td>
-        <td><img src="icons/oci_icon_cli.svg" width="75"></td>
-        <td><img src="icons/oci_icon_cloud.svg" width="75"></td>
- 	<td><img src="icons/oci_icon_cloud.svg" width="75"></td>
-        <td><img src="icons/oci_icon_configservice.svg" width="75"></td>
-    </tr>
-       <tr>
-        <th>2fa</th>
-        <th>api</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-  	<th>stacked</th>
-        <th>icon</th>
-	<th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
+           <tr>
         <td><img src="icons/oci_icon_2fa.svg" width="75"></td>
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
@@ -54,6 +42,18 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
  	<td><img src="icons/oci_icon_api.svg" width="75"></td>
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
+    </tr>
+<tr>
+        <th>2fa</th>
+        <th>api</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+  	<th>stacked</th>
+        <th>icon</th>
+	<th>stacked</th>
+        <th>icon</th>
     </tr>
 
 
