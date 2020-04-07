@@ -8,19 +8,19 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
  	<tr>
-	<th>2fa</th>
-        <th>api</th>
-        <th>authentication</th>
-        <th>batch</th>
-        <th>billing</th>
-        <th>cdn</th>
-  	<th>cli</th>
-        <th>cloud</th>
-	<th>cloud</th>
-        <th>configservice</th>
+	<th style="width:10%">2fa</th>
+        <th style="width:10%">api</th>
+        <th style="width:10%">authentication</th>
+        <th style="width:10%">batch</th>
+        <th style="width:10%">billing</th>
+        <th style="width:10%">cdn</th>
+  	<th style="width:10%">cli</th>
+        <th style="width:10%">cloud</th>
+	<th style="width:10%">cloud</th>
+        <th style="width:10%">configservice</th>
     </tr>
     <tr>
-        <td style="10%"><img src="icons/oci_icon_2fa.svg" width="75"></td>
+        <td style="10%"><img src="icons/oci_icon_2fa.svg" style="width:75px" width="75"></td>
         <td style="10%"><img src="icons/oci_icon_api.svg" width="75"></td>
         <td style="10%"><img src="icons/oci_icon_authentication.svg" width="75"></td>
         <td><img src="icons/oci_icon_batch.svg" width="75"></td>
