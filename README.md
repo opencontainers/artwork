@@ -11,7 +11,6 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th colspan="8"></th>
     </tr>
        <tr>
- 
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
