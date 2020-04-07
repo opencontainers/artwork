@@ -7,7 +7,8 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 
 <table>
- 	<tr><th>2fa</th>
+ 	<tr>
+	<th>2fa</th>
         <th>api</th>
         <th>authentication</th>
         <th>batch</th>
@@ -30,7 +31,6 @@ This repository contains OCI artwork and logos in a variety of formats.
  	<td><img src="icons/oci_icon_cloud.svg" width="75"></td>
         <td><img src="icons/oci_icon_configservice.svg" width="75"></td>
     </tr>
-
        <tr>
         <th>2fa</th>
         <th>api</th>
