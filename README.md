@@ -8,8 +8,8 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
  	<tr>
-	<th>2fa</th>
-        <th>api</th>
+	<th>2fa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>api&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th>authentication</th>
         <th>batch</th>
         <th>billing</th>
@@ -32,7 +32,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_configservice.svg" width="75"></td>
     </tr>
        <tr>
-        <th>2fa</th>
+        <th>2fa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th>api</th>
         <th>icon</th>
         <th>horizontal</th>
