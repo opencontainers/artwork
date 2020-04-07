@@ -7,8 +7,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 
 <table>
- <tr>	
-	<th>2fa</th>
+ 	<tr><th>2fa</th>
         <th>api</th>
         <th>authentication</th>
         <th>batch</th>
