@@ -8,17 +8,16 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
     <tr>
-        <th colspan="8"></th>
+<th colspan="8"></th>
     </tr>
        <tr>
- 
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
-  	<th>stacked</th>
+  	    <th>stacked</th>
         <th>icon</th>
     </tr>
     <tr>
