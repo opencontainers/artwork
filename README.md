@@ -12,7 +12,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td style="10%"><img src="icons/oci_icon_api.svg" width="75"></td>
         <td style="10%"><img src="icons/oci_icon_authentication.svg" width="75"></td>
         <td><img src="icons/oci_icon_batch.svg" width="75"></td>
-        <td><img src="icons/oci_icon_billing.svg" width="100"></td>
+        <td><img src="icons/oci_icon_billing.svg" width="75"></td>
         <td><img src="icons/oci_icon_cdn.svg" width="100"></td>
         <td><img src="icons/oci_icon_cli.svg" width="100"></td>
         <td><img src="icons/oci_icon_cloud.svg" width="100"></td>
@@ -52,7 +52,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_developer.svg" width="75px"></td>
  	<td><img src="icons/oci_icon_devices.svg" width="75"></td>
         <td><img src="icons/oci_icon_disk.svg" width="75"></td>
-	<td><img src="icons/oci_icon_distribution.svg" width="125px"></td>
+	<td><img src="icons/oci_icon_distribution.svg" width="75"></td>
         <td><img src="icons/oci_icon_docdb.svg" width="125px"></td>
  	<td><img src="icons/oci_icon_file.svg" width="125px"></td>
         <td><img src="icons/oci_icon_firewall.svg" width="100"></td>
