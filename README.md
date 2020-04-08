@@ -66,7 +66,45 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>docdb</sup></sub></th>
 	<th><sub><sup>file</sup></sub></th>
         <th><sub><sup>firewall</sup></sub></th>
-
     </tr>
-
+        <tr>
+	<td><img src="icons/oci_icon_firewallrule.svg" width="75"></td>
+        <td><img src="icons/oci_icon_function.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_git.svg" width="75"></td>
+        <td><img src="icons/oci_icon_healthmonitoring.svg" width="75"></td>
+	<td><img src="icons/oci_icon_invoice.svg" width="75"></td>
+        <td><img src="icons/oci_icon_iot.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_key vault.svg" width="75"></td>
+        <td><img src="icons/oci_icon_key.svg" width="75"></td>
+    </tr>
+<tr>
+	<th><sub><sup>firewallrule</sup></sub></th>
+        <th><sub><sup>function</sup></sub></th>
+	<th><sub><sup>git</sup></sub></th>
+        <th><sub><sup>healthmonitoring</sup></sub></th>
+	<th><sub><sup>invoice</sup></sub></th>
+        <th><sub><sup>iot</sup></sub></th>
+	<th><sub><sup>keyvault</sup></sub></th>
+        <th><sub><sup>key</sup></sub></th>
+    </tr>
+        <tr>
+	<td><img src="icons/oci_icon_laptop.svg" width="75"></td>
+        <td><img src="icons/oci_icon_legacymainframe.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_loadbalancer.svg" width="75"></td>
+        <td><img src="icons/oci_icon_logging.svg" width="75"></td>
+	<td><img src="icons/oci_icon_machinelearning.svg" width="75"></td>
+        <td><img src="icons/oci_icon_media.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_mediastreaming.svg" width="75"></td>
+        <td><img src="icons/oci_icon_message.svg" width="75"></td>
+    </tr>
+<tr>
+	<th><sub><sup>laptop</sup></sub></th>
+        <th><sub><sup>legacymainframe</sup></sub></th>
+	<th><sub><sup>loadbalancer</sup></sub></th>
+        <th><sub><sup>logging</sup></sub></th>
+	<th><sub><sup>machinelearning</sup></sub></th>
+        <th><sub><sup>media</sup></sub></th>
+	<th><sub><sup>mediastreaming</sup></sub></th>
+        <th><sub><sup>message</sup></sub></th>
+    </tr>
 </table>
