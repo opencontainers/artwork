@@ -18,14 +18,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_cloud.svg" width="100"></td>
  	    </tr>
  	<tr>
-	<th style="width:10%">2fa</th>
-        <th style="width:10%">api</th>
-        <th style="width:10%">authentication</th>
-        <th style="width:10%">batch</th>
-        <th style="width:10%">billing</th>
-        <th style="width:10%">cdn</th>
-  	<th style="width:10%">cli</th>
-        <th style="width:10%">cloud</th>	
+	<th style="width:10%"><sub><sup>2fa</sup></sub></th>
+        <th style="width:10%"><sub><sup>api</sup></sub></th>
+        <th style="width:10%"><sub><sup>authentication</sup></sub></th>
+        <th style="width:10%"><sub><sup>batch</sup></sub></th>
+        <th style="width:10%"><sub><sup>billing</sup></sub></th>
+        <th style="width:10%"><sub><sup>cdn</sup></sub></th>
+  	<th style="width:10%"><sub><sup>cli</sup></sub></th>
+        <th style="width:10%"><sub><sup>cloud</sup></sub></th>	
     </tr>
            <tr>
 	<td><img src="icons/oci_icon_cloud.svg" width="125"></td>
@@ -58,14 +58,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_firewall.svg" width="100"></td>
     </tr>
 <tr>
-	<th>desktop</th>
-        <th>developer</th>
-	<th>devices</th>
-        <th>disk</th>
-	<th>distribution</th>
-        <th>docdb</th>
-	<th>file</th>
-        <th>firewall</th>
+	<th><sub><sup>desktop</sup></sub></th>
+        <th><sub><sup>developer</sup></sub></th>
+	<th><sub><sup>devices</sup></sub></th>
+        <th><sub><sup>disk</sup></sub></th>
+	<th><sub><sup>distribution</sup></sub></th>
+        <th><sub><sup>docdb</sup></sub></th>
+	<th><sub><sup>file</sup></sub></th>
+        <th><sub><sup>firewall</sup></sub></th>
 
     </tr>
 
