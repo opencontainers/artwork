@@ -9,9 +9,9 @@ This repository contains OCI artwork and logos in a variety of formats.
 ## OCI icons
 
 <table>
-<tr>
+<tr><p>
 	<td style="padding-top:10%;"><img src="icons/oci_icon_2fa.svg" style="text-align:center" width="50" padding="10%"></td>
-        <td style="padding-top:10%;padding-left:20%;"><img src="icons/oci_icon_api.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;padding-left:20%;"><img src="icons/oci_icon_api.svg" margin="20%" width="50"></td>
         <td style="padding-top:10%;padding-left:20%;"><img src="icons/oci_icon_authentication.svg" img align="center" width="50"></td>
         <td style="padding-top:10%;"><img src="icons/oci_icon_batch.svg" img align="center" width="50"></td>
         <td style="padding-top:10%;"><img src="icons/oci_icon_billing.svg" img align="center" width="50"></td>
@@ -29,8 +29,8 @@ This repository contains OCI artwork and logos in a variety of formats.
   	<th><sub><sup>cli</sup></sub></th>
         <th><sub><sup>cloud</sup></sub></th>	
     </tr>
-           <tr>
-	<td><p><img src="icons/oci_icon_config.svg" margin="20%" width="50"></td>
+           <tr><p>
+	<td><img src="icons/oci_icon_config.svg" margin="20%" width="50"></td>
         <td><img src="icons/oci_icon_configservice.svg" width="50"></td>
         <td><img src="icons/oci_icon_container.svg" width="50"></td>
         <td><img src="icons/oci_icon_containerhost.svg" width="50"></td>
