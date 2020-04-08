@@ -30,7 +30,7 @@ This repository contains OCI artwork and logos in a variety of formats.
            <tr>
 	<td><img src="icons/oci_icon_cloud.svg" width="100"></td>
         <td><img src="icons/oci_icon_configservice.svg" width="75"></td>
-        <td><img src="icons/oci_icon_container.svg" width="150"></td>
+        <td><img src="icons/oci_icon_container.svg" width="75"></td>
         <td><img src="icons/oci_icon_containerhost.svg" width="150"></td>
         <td><img src="icons/oci_icon_containerimage.svg" width="75"></td>
         <td><img src="icons/oci_icon_customer.svg" width="125px"></td>
@@ -50,7 +50,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <tr>
 	<td><img src="icons/oci_icon_desktop.svg" width="100"></td>
         <td><img src="icons/oci_icon_developer.svg" width="75px"></td>
- 	<td><img src="icons/oci_icon_devices.svg" width="125px"></td>
+ 	<td><img src="icons/oci_icon_devices.svg" width="75px"></td>
         <td><img src="icons/oci_icon_disk.svg" width="100"></td>
 	<td><img src="icons/oci_icon_distribution.svg" width="125px"></td>
         <td><img src="icons/oci_icon_docdb.svg" width="125px"></td>
