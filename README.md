@@ -17,7 +17,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_cli.svg" width="125"></td>
         <td><img src="icons/oci_icon_cloud.svg" width="125"></td>
  	<td><img src="icons/oci_icon_cloud.svg" width="125"></td>
-        <td><img src="icons/oci_icon_configservice.svg" width="125"></td>
+        <td><img src="icons/oci_icon_configservice.svg" width="100"></td>
     </tr>
  	<tr>
 	<th style="width:10%">2fa</th>
@@ -41,7 +41,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_api.svg" width="125px"></td>
         <td><img src="icons/oci_icon_api.svg" width="125px"></td>
  	<td><img src="icons/oci_icon_api.svg" width="125px"></td>
-        <td><img src="icons/oci_icon_api.svg" width="125px"></td>
+        <td><img src="icons/oci_icon_api.svg" width="100"></td>
     </tr>
 <tr>
         <th>2fa</th>
