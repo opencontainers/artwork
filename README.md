@@ -33,8 +33,8 @@ This repository contains OCI artwork and logos in a variety of formats.
     </tr>
            <tr>
         <td><img src="icons/oci_icon_2fa.svg" width="125px"></td>
-        <td><img src="icons/oci_icon_api.svg" width="75"></td>
-        <td><img src="icons/oci_icon_api.svg" width="75"></td>
+        <td><img src="icons/oci_icon_api.svg" width="125"></td>
+        <td><img src="icons/oci_icon_api.svg" width="125"></td>
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
