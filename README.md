@@ -28,7 +28,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th style="width:10%">cdn</th>
   	<th style="width:10%">cli</th>
         <th style="width:10%">cloud</th>
-	<th style="width:10%">cloud</th>
+	<th style="width:10%">config</th>
         <th style="width:10%">configservice</th>
     </tr>
            <tr>
@@ -44,16 +44,16 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_api.svg" width="100"></td>
     </tr>
 <tr>
-        <th>2fa</th>
-        <th>api</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-  	<th>stacked</th>
-        <th>icon</th>
-	<th>stacked</th>
-        <th>icon</th>
+        <th>container</th>
+        <th>containerhost</th>
+        <th>containerimage</th>
+        <th>customer</th>
+        <th>database</th>
+        <th>debugging</th>
+  	<th>desktop</th>
+        <th>developer</th>
+	<th>devices</th>
+        <th>disk</th>
     </tr>
 
 
