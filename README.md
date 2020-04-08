@@ -25,8 +25,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th style="width:10%">billing</th>
         <th style="width:10%">cdn</th>
   	<th style="width:10%">cli</th>
-        <th style="width:10%">cloud</th>
-	
+        <th style="width:10%">cloud</th>	
     </tr>
            <tr>
 	<td><img src="icons/oci_icon_cloud.svg" width="100"></td>
