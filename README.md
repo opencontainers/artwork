@@ -38,14 +38,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_debugging.svg" width="125px"></td>
    </tr>
 <tr>
-	<th style="width:10%">config</th>
-        <th style="width:10%">configservice</th>
+	<th style="width:10%"><sub><sup>config</sup></sub></th>
+        <th style="width:10%"><sub><sup>configservice</sup></sub></th>
         <th><sub><sup>container</sup></sub></th>
-        <th>containerhost</th>
-        <th>containerimage</th>
-        <th>customer</th>
-        <th>database</th>
-        <th>debugging</th>
+        <th><sub><sup>containerhost</sup></sub></th>
+        <th><sub><sup>containerimage</sup></sub></th>
+        <th><sub><sup>customer</sup></sub></th>
+        <th><sub><sup>database</sup></sub></th>
+        <th><sub><sup>debugging</sup></sub></th>
     </tr>
         <tr>
 	<td><img src="icons/oci_icon_desktop.svg" width="125"></td>
