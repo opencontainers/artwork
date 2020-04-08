@@ -123,7 +123,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>onprem</sup></sub></th>
         <th><sub><sup>orchestrator</sup></sub></th>
 	<th><sub><sup>pipeline</sup></sub></th>
-        <th><sub><sup>policy<p>enforcement</sup></sub></th>
+        <th><sub><sup>policy<p>enforce</sup></sub></th>
 	<th><sub><sup>policy<p>manager</sup></sub></th>
         <th><sub><sup>queue</sup></sub></th>
 	<th><sub><sup>sbom</sup></sub></th>
@@ -167,3 +167,4 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>web</sup></sub></th>
     </tr>
 </table>
+<br>
