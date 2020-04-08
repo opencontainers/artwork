@@ -41,8 +41,8 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th style="width:10%"><sub><sup>config</sup></sub></th>
         <th style="width:10%"><sub><sup>configservice</sup></sub></th>
         <th><sub><sup>container</sup></sub></th>
-        <th><sub><sup>containerhost</sup></sub></th>
-        <th><sub><sup>containerimage</sup></sub></th>
+        <th><sub><sup>container<br>host</sup></sub></th>
+        <th><sub><sup>container<br>image</sup></sub></th>
         <th><sub><sup>customer</sup></sub></th>
         <th><sub><sup>database</sup></sub></th>
         <th><sub><sup>debugging</sup></sub></th>
@@ -78,13 +78,13 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_key.svg" width="75"></td>
     </tr>
 <tr>
-	<th><sub><sup>firewallrule</sup></sub></th>
+	<th><sub><sup>firewall<br>rule</sup></sub></th>
         <th><sub><sup>function</sup></sub></th>
 	<th><sub><sup>git</sup></sub></th>
-        <th><sub><sup>healthmonitoring</sup></sub></th>
+        <th><sub><sup>health<br>monitoring</sup></sub></th>
 	<th><sub><sup>invoice</sup></sub></th>
         <th><sub><sup>iot</sup></sub></th>
-	<th><sub><sup>keyvault</sup></sub></th>
+	<th><sub><sup>key<br>vault</sup></sub></th>
         <th><sub><sup>key</sup></sub></th>
     </tr>
         <tr>
@@ -102,9 +102,9 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>legacymainframe</sup></sub></th>
 	<th><sub><sup>loadbalancer</sup></sub></th>
         <th><sub><sup>logging</sup></sub></th>
-	<th><sub><sup>machinelearning</sup></sub></th>
+	<th><sub><sup>machine<br>learning</sup></sub></th>
         <th><sub><sup>media</sup></sub></th>
-	<th><sub><sup>mediastreaming</sup></sub></th>
+	<th><sub><sup>media<br>streaming</sup></sub></th>
         <th><sub><sup>message</sup></sub></th>
     </tr>
         <tr>
@@ -123,8 +123,8 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>onprem</sup></sub></th>
         <th><sub><sup>orchestrator</sup></sub></th>
 	<th><sub><sup>pipeline</sup></sub></th>
-        <th><sub><sup>policyenforcement</sup></sub></th>
-	<th><sub><sup>policymanager</sup></sub></th>
+        <th><sub><sup>policy<br>enforcement</sup></sub></th>
+	<th><sub><sup>policy<br>manager</sup></sub></th>
         <th><sub><sup>queue</sup></sub></th>
     </tr>
         <tr>
@@ -141,7 +141,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>sbom</sup></sub></th>
         <th><sub><sup>scheduled<br>job</sup></sub></th>
 	<th><sub><sup>sdk</sup></sub></th>
-        <th><sub><sup>securityscanning</sup></sub></th>
+        <th><sub><sup>security<br>scanning</sup></sub></th>
 	<th><sub><sup>serverdesk</sup></sub></th>
         <th><sub><sup>serverless</sup></sub></th>
 	<th><sub><sup>serverrack</sup></sub></th>
