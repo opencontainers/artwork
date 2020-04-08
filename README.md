@@ -40,7 +40,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 <tr>
 	<th style="width:10%">config</th>
         <th style="width:10%">configservice</th>
-        <th>container</th>
+        <th><sub><sup>container</sup></sub></th>
         <th>containerhost</th>
         <th>containerimage</th>
         <th>customer</th>
