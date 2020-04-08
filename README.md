@@ -110,8 +110,6 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>media<p>streaming</sup></sub></th>
         <th><sub><sup>message</sup></sub></th>
     </tr>
-<tr>
-	</tr>
         <tr>
 	<td><img src="icons/oci_icon_mobile.svg" width="50"></td>
         <td><img src="icons/oci_icon_monitoring.svg" width="50"></td>
@@ -148,7 +146,7 @@ This repository contains OCI artwork and logos in a variety of formats.
  	<td><img src="icons/oci_icon_sourceartifact.svg" width="50"></td>
         <td><img src="icons/oci_icon_storage.svg" width="50"></td>
     </tr>
-<tr>	
+<tr>
 	<th><sub><sup>sdk</sup></sub></th>
         <th><sub><sup>security<p>scanning</sup></sub></th>
 	<th><sub><sup>server<p>desk</sup></sub></th>
@@ -167,7 +165,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_vnet.svg" width="50"></td>
 	<td><img src="icons/oci_icon_web.svg" width="50"></td>
     </tr>
-<tr>	
+<tr>
 	<th><sub><sup>support<p>personnel</sup></sub></th>
         <th><sub><sup>testing</sup></sub></th>
 	<th><sub><sup>vm</sup></sub></th>
