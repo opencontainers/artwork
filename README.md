@@ -13,12 +13,10 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td style="10%"><img src="icons/oci_icon_authentication.svg" width="75"></td>
         <td><img src="icons/oci_icon_batch.svg" width="100"></td>
         <td><img src="icons/oci_icon_billing.svg" width="100"></td>
-        <td><img src="icons/oci_icon_cdn.svg" width="125"></td>
-        <td><img src="icons/oci_icon_cli.svg" width="125"></td>
-        <td><img src="icons/oci_icon_cloud.svg" width="125"></td>
- 	<td><img src="icons/oci_icon_cloud.svg" width="125"></td>
-        <td><img src="icons/oci_icon_configservice.svg" width="100"></td>
-    </tr>
+        <td><img src="icons/oci_icon_cdn.svg" width="100"></td>
+        <td><img src="icons/oci_icon_cli.svg" width="100"></td>
+        <td><img src="icons/oci_icon_cloud.svg" width="100"></td>
+ 	    </tr>
  	<tr>
 	<th style="width:10%">2fa</th>
         <th style="width:10%">api</th>
@@ -32,16 +30,15 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th style="width:10%">configservice</th>
     </tr>
            <tr>
+	<td><img src="icons/oci_icon_cloud.svg" width="100"></td>
+        <td><img src="icons/oci_icon_configservice.svg" width="100"></td>
         <td><img src="icons/oci_icon_2fa.svg" width="150"></td>
         <td><img src="icons/oci_icon_api.svg" width="150"></td>
         <td><img src="icons/oci_icon_api.svg" width="75"></td>
         <td><img src="icons/oci_icon_api.svg" width="125px"></td>
         <td><img src="icons/oci_icon_api.svg" width="125px"></td>
         <td><img src="icons/oci_icon_api.svg" width="125px"></td>
-        <td><img src="icons/oci_icon_api.svg" width="125px"></td>
-        <td><img src="icons/oci_icon_api.svg" width="125px"></td>
- 	<td><img src="icons/oci_icon_api.svg" width="125px"></td>
-        <td><img src="icons/oci_icon_api.svg" width="100"></td>
+
     </tr>
 <tr>
         <th>container</th>
@@ -56,6 +53,13 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th>disk</th>
     </tr>
 
+
+
+
+        <td><img src="icons/oci_icon_api.svg" width="125px"></td>
+        <td><img src="icons/oci_icon_api.svg" width="125px"></td>
+ 	<td><img src="icons/oci_icon_api.svg" width="125px"></td>
+        <td><img src="icons/oci_icon_api.svg" width="100"></td>
 
 
 </table>
