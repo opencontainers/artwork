@@ -39,7 +39,8 @@ This repository contains OCI artwork and logos in a variety of formats.
    </tr>
 <tr>
 	<th style="width:10%"><sub><sup>config</sup></sub></th>
-        <th style="width:10%"><sub><sup>configservice</sup></sub></th>
+        <th style="width:10%"><sub><sup>config
+service</sup></sub></th>
         <th><sub><sup>container</sup></sub></th>
         <th><sub><sup>container<br>host</sup></sub></th>
         <th><sub><sup>container<br>image</sup></sub></th>
@@ -81,7 +82,8 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>firewall<br>rule</sup></sub></th>
         <th><sub><sup>function</sup></sub></th>
 	<th><sub><sup>git</sup></sub></th>
-        <th><sub><sup>health<br>monitoring</sup></sub></th>
+        <th><sub><sup>health
+monitoring</sup></sub></th>
 	<th><sub><sup>invoice</sup></sub></th>
         <th><sub><sup>iot</sup></sub></th>
 	<th><sub><sup>key<br>vault</sup></sub></th>
