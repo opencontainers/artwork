@@ -30,7 +30,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>cloud</sup></sub></th>	
     </tr>
            <tr>
-	<td style="padding-top:20%;"><img src="icons/oci_icon_config.svg" padding="20%" width="50"></td>
+	<td style="padding-top:10%;"><img src="icons/oci_icon_config.svg" padding="20%" width="50"></td>
         <td style="padding-top:20%;"><img src="icons/oci_icon_configservice.svg" width="50"></td>
         <td style="padding-top:20%;"><img src="icons/oci_icon_container.svg" width="50"></td>
         <td style="padding-top:20%;"><img src="icons/oci_icon_containerhost.svg" width="50"></td>
