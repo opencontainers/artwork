@@ -9,8 +9,8 @@ This repository contains OCI artwork and logos in a variety of formats.
 ## OCI icons
 
 <table>
-<tr><p>
-	<td style="padding-top:10%;"><img src="icons/oci_icon_2fa.svg" style="text-align:center" width="50" padding="10%"></td>
+<tr>
+	<td><p><img src="icons/oci_icon_2fa.svg" style="text-align:center" width="50" padding="10%"></td>
         <td style="padding-top:10%;padding-left:20%;"><img src="icons/oci_icon_api.svg" margin="20%" width="50"></td>
         <td style="padding-top:10%;padding-left:20%;"><img src="icons/oci_icon_authentication.svg" img align="center" width="50"></td>
         <td style="padding-top:10%;"><img src="icons/oci_icon_batch.svg" img align="center" width="50"></td>
