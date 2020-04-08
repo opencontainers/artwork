@@ -142,9 +142,9 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>scheduled<p>job</sup></sub></th>
 	<th><sub><sup>sdk</sup></sub></th>
         <th><sub><sup>security<p>scanning</sup></sub></th>
-	<th><sub><sup>serverdesk</sup></sub></th>
+	<th><sub><sup>server<p>desk</sup></sub></th>
         <th><sub><sup>serverless</sup></sub></th>
-	<th><sub><sup>serverrack</sup></sub></th>
+	<th><sub><sup>server<p>rack</sup></sub></th>
         <th><sub><sup>service</sup></sub></th>
     </tr>
         <tr>
@@ -162,7 +162,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>signature<p>job</sup></sub></th>
 	<th><sub><sup>source<p>artifact.</sup></sub></th>
         <th><sub><sup>storage<p>scanning</sup></sub></th>
-	<th><sub><sup>support<b>personnel</sup></sub></th>
+	<th><sub><sup>support<p>personnel</sup></sub></th>
         <th><sub><sup>testing</sup></sub></th>
 	<th><sub><sup>vm</sup></sub></th>
         <th><sub><sup>vnet</sup></sub></th>
