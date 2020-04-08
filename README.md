@@ -6,6 +6,8 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 
 
+## OCI icons
+
 <table>
 <tr>
         <td style="padding-top:5%;"><img src="icons/oci_icon_2fa.svg" width="50" padding="10%"></td>
@@ -28,14 +30,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th style="width:10%"><sub><sup>cloud</sup></sub></th>	
     </tr>
            <tr>
-	<td><img src="icons/oci_icon_cloud.svg" width="75"></td>
-        <td><img src="icons/oci_icon_configservice.svg" width="75"></td>
-        <td><img src="icons/oci_icon_container.svg" width="75"></td>
-        <td><img src="icons/oci_icon_containerhost.svg" width="75"></td>
-        <td><img src="icons/oci_icon_containerimage.svg" width="75"></td>
-        <td><img src="icons/oci_icon_customer.svg" width="75"></td>
-        <td><img src="icons/oci_icon_database.svg" width="75"></td>
-        <td><img src="icons/oci_icon_debugging.svg" width="75"></td>
+	<td><img src="icons/oci_icon_cloud.svg" width="50"></td>
+        <td><img src="icons/oci_icon_configservice.svg" width="50"></td>
+        <td><img src="icons/oci_icon_container.svg" width="50"></td>
+        <td><img src="icons/oci_icon_containerhost.svg" width="50"></td>
+        <td><img src="icons/oci_icon_containerimage.svg" width="50"></td>
+        <td><img src="icons/oci_icon_customer.svg" width="50"></td>
+        <td><img src="icons/oci_icon_database.svg" width="50"></td>
+        <td><img src="icons/oci_icon_debugging.svg" width="50"></td>
    </tr>
 <tr>
 	<th style="width:10%"><sub><sup>config</sup></sub></th>
@@ -48,14 +50,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>debugging</sup></sub></th>
     </tr>
         <tr>
-	<td><img src="icons/oci_icon_desktop.svg" width="75"></td>
-        <td><img src="icons/oci_icon_developer.svg" width="75"></td>
- 	<td><img src="icons/oci_icon_devices.svg" width="75"></td>
-        <td><img src="icons/oci_icon_disk.svg" width="75"></td>
-	<td><img src="icons/oci_icon_distribution.svg" width="75"></td>
-        <td><img src="icons/oci_icon_docdb.svg" width="75"></td>
- 	<td><img src="icons/oci_icon_file.svg" width="75"></td>
-        <td><img src="icons/oci_icon_firewall.svg" width="75"></td>
+	<td><img src="icons/oci_icon_desktop.svg" width="50"></td>
+        <td><img src="icons/oci_icon_developer.svg" width="50"></td>
+ 	<td><img src="icons/oci_icon_devices.svg" width="50"></td>
+        <td><img src="icons/oci_icon_disk.svg" width="50"></td>
+	<td><img src="icons/oci_icon_distribution.svg" width="50"></td>
+        <td><img src="icons/oci_icon_docdb.svg" width="50"></td>
+ 	<td><img src="icons/oci_icon_file.svg" width="50"></td>
+        <td><img src="icons/oci_icon_firewall.svg" width="50"></td>
     </tr>
 <tr>
 	<th><sub><sup>desktop</sup></sub></th>
