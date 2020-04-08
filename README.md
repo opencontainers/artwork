@@ -109,9 +109,9 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<td><img src="icons/oci_icon_mobile.svg" width="50"></td>
         <td><img src="icons/oci_icon_monitoring.svg" width="50"></td>
  	<td><img src="icons/oci_icon_onprem.svg" width="50"></td>
-        <td><img src="icons/oci_icon_orchestrat.svg" width="50"></td>
+        <td><img src="icons/oci_icon_orchestrator.svg" width="50"></td>
 	<td><img src="icons/oci_icon_pipeline.svg" width="50"></td>
-        <td><img src="icons/oci_icon_policyenforce.svg" width="50"></td>
+        <td><img src="icons/oci_icon_policyenforcement.svg" width="50"></td>
  	<td><img src="icons/oci_icon_policymanager.svg" width="50"></td>
         <td><img src="icons/oci_icon_queue.svg" width="50"></td>
 	<td><img src="icons/oci_icon_sbom.svg" width="50"></td>
@@ -121,9 +121,9 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>mobile</sup></sub></th>
         <th><sub><sup>monitoring</sup></sub></th>
 	<th><sub><sup>onprem</sup></sub></th>
-        <th><sub><sup>orchestrator</sup></sub></th>
+        <th><sub><sup>orchestrat</sup></sub></th>
 	<th><sub><sup>pipeline</sup></sub></th>
-        <th><sub><sup>policy<p>enforcement</sup></sub></th>
+        <th><sub><sup>policy<p>enforce</sup></sub></th>
 	<th><sub><sup>policy<p>manager</sup></sub></th>
         <th><sub><sup>queue</sup></sub></th>
 	<th><sub><sup>sbom</sup></sub></th>
