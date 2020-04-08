@@ -107,4 +107,44 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>mediastreaming</sup></sub></th>
         <th><sub><sup>message</sup></sub></th>
     </tr>
+        <tr>
+	<td><img src="icons/oci_icon_mobile.svg" width="50"></td>
+        <td><img src="icons/oci_icon_monitoring.svg" width="50"></td>
+ 	<td><img src="icons/oci_icon_onprem.svg" width="50"></td>
+        <td><img src="icons/oci_icon_orchestrator.svg" width="50"></td>
+	<td><img src="icons/oci_icon_pipeline.svg" width="50"></td>
+        <td><img src="icons/oci_icon_policyenforcement.svg" width="50"></td>
+ 	<td><img src="icons/oci_icon_policymanager.svg" width="50"></td>
+        <td><img src="icons/oci_icon_queue.svg" width="50"></td>
+    </tr>
+<tr>
+	<th><sub><sup>mobile</sup></sub></th>
+        <th><sub><sup>monitoring</sup></sub></th>
+	<th><sub><sup>onprem</sup></sub></th>
+        <th><sub><sup>orchestrator</sup></sub></th>
+	<th><sub><sup>pipeline</sup></sub></th>
+        <th><sub><sup>policyenforcement</sup></sub></th>
+	<th><sub><sup>policymanager</sup></sub></th>
+        <th><sub><sup>queue</sup></sub></th>
+    </tr>
+        <tr>
+	<td><img src="icons/oci_icon_sbom.svg" width="50"></td>
+        <td><img src="icons/oci_icon_scheduledjob.svg" width="50"></td>
+ 	<td><img src="icons/oci_icon_sdk.svg" width="50"></td>
+        <td><img src="icons/oci_icon_securityscanning.svg" width="50"></td>
+	<td><img src="icons/oci_icon_serverdesk.svg" width="50"></td>
+        <td><img src="icons/oci_icon_serverless.svg" width="50"></td>
+ 	<td><img src="icons/oci_icon_serverrack.svg" width="50"></td>
+        <td><img src="icons/oci_icon_service.svg" width="50"></td>
+    </tr>
+<tr>
+	<th><sub><sup>sbom</sup></sub></th>
+        <th><sub><sup>scheduled<br>job</sup></sub></th>
+	<th><sub><sup>sdk</sup></sub></th>
+        <th><sub><sup>securityscanning</sup></sub></th>
+	<th><sub><sup>serverdesk</sup></sub></th>
+        <th><sub><sup>serverless</sup></sub></th>
+	<th><sub><sup>serverrack</sup></sub></th>
+        <th><sub><sup>service</sup></sub></th>
+    </tr>
 </table>
