@@ -77,7 +77,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>firewall<p>rule</sup></sub></th>
         <th><sub><sup>function</sup></sub></th>
 	<th><sub><sup>git</sup></sub></th>
-        <th><sub><sup>health<p>monitoring</sup></sub></th>
+        <th><sub><sup>health<p>monitor</sup></sub></th>
 	<th><sub><sup>invoice</sup></sub></th>
         <th><sub><sup>iot</sup></sub></th>
     </tr>
@@ -121,9 +121,9 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>mobile</sup></sub></th>
         <th><sub><sup>monitoring</sup></sub></th>
 	<th><sub><sup>onprem</sup></sub></th>
-        <th><sub><sup>orchestrat</sup></sub></th>
+        <th><sub><sup>orchestrator</sup></sub></th>
 	<th><sub><sup>pipeline</sup></sub></th>
-        <th><sub><sup>policy<p>enforce</sup></sub></th>
+        <th><sub><sup>policy<p>enforcement</sup></sub></th>
 	<th><sub><sup>policy<p>manager</sup></sub></th>
         <th><sub><sup>queue</sup></sub></th>
 	<th><sub><sup>sbom</sup></sub></th>
