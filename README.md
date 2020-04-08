@@ -123,7 +123,6 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_queue.svg" width="50"></td>
 	<td><img src="icons/oci_icon_sbom.svg" width="50"></td>
         <td><img src="icons/oci_icon_scheduledjob.svg" width="50"></td>
-
     </tr>
 <tr>
 	<th><sub><sup>mobile</sup></sub></th>
