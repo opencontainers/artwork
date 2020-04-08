@@ -58,7 +58,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>disk</sup></sub></th>
     </tr>
         <tr>
-	<td><img src="icons/oci_icon_distribution.svg" width="50"></td>
+	<td><p><p><img src="icons/oci_icon_distribution.svg" width="50"></td>
         <td><img src="icons/oci_icon_docdb.svg" width="50"></td>
  	<td><img src="icons/oci_icon_file.svg" width="50"></td>
         <td><img src="icons/oci_icon_firewall.svg" width="50"></td>
@@ -70,7 +70,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_iot.svg" width="50"></td>
     </tr>
 <tr>
-	<th><sub><sup>distribution</sup></sub></th>
+	<th><p><p><sub><sup>distribution</sup></sub></th>
         <th><sub><sup>docdb</sup></sub></th>
 	<th><sub><sup>file</sup></sub></th>
         <th><sub><sup>firewall</sup></sub></th>
@@ -82,7 +82,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>iot</sup></sub></th>
     </tr>
         <tr>
-	 <td><img src="icons/oci_icon_key vault.svg" width="50"></td>
+	<td><p><p><img src="icons/oci_icon_key vault.svg" width="50"></td>
         <td><img src="icons/oci_icon_key.svg" width="50"></td>
 	<td><img src="icons/oci_icon_laptop.svg" width="50"></td>
         <td><img src="icons/oci_icon_legacymainframe.svg" width="50"></td>
@@ -106,7 +106,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>message</sup></sub></th>
     </tr>
         <tr>
-	<td><img src="icons/oci_icon_mobile.svg" width="50"></td>
+	<td><p><p><img src="icons/oci_icon_mobile.svg" width="50"></td>
         <td><img src="icons/oci_icon_monitoring.svg" width="50"></td>
  	<td><img src="icons/oci_icon_onprem.svg" width="50"></td>
         <td><img src="icons/oci_icon_orchestrator.svg" width="50"></td>
@@ -130,7 +130,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>scheduled<p>job</sup></sub></th>
     </tr>
         <tr>
-	<td><img src="icons/oci_icon_sdk.svg" width="50"></td>
+	<td><p><p><img src="icons/oci_icon_sdk.svg" width="50"></td>
         <td><img src="icons/oci_icon_securityscanning.svg" width="50"></td>
 	<td><img src="icons/oci_icon_serverdesk.svg" width="50"></td>
         <td><img src="icons/oci_icon_serverless.svg" width="50"></td>
@@ -154,12 +154,12 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>storage</sup></sub></th>
     </tr>
         <tr>
-	td><img src="icons/oci_icon_supportpersonnel.svg" width="50"></td>
+	<td><p><p><img src="icons/oci_icon_supportpersonnel.svg" width="50"></td>
         <td><img src="icons/oci_icon_testing.svg" width="50"></td>
  	<td><img src="icons/oci_icon_vm.svg" width="50"></td>
         <td><img src="icons/oci_icon_vnet.svg" width="50"></td>
 	<td><img src="icons/oci_icon_web.svg" width="50"></td>
-    </tr>
+</tr>
 	<tr><th><sub><sup>support<p>personnel</sup></sub></th>
         <th><sub><sup>testing</sup></sub></th>
 	<th><sub><sup>vm</sup></sub></th>
