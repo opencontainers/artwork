@@ -8,14 +8,14 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
 <tr>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_2fa.svg" width="75" padding="10%"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_api.svg" width="75"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_authentication.svg" width="75"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_batch.svg" width="75"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_billing.svg" width="75"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_cdn.svg" width="75"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_cli.svg" width="75"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_cloud.svg" width="75"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_2fa.svg" width="50" padding="10%"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_api.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_authentication.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_batch.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_billing.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_cdn.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_cli.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_cloud.svg" width="50"></td>
  	    </tr>
  	<tr>
 	<th style="width:10%"><sub><sup>2fa</sup></sub></th>
@@ -39,7 +39,7 @@ This repository contains OCI artwork and logos in a variety of formats.
    </tr>
 <tr>
 	<th style="width:10%"><sub><sup>config</sup></sub></th>
-        <th style="width:10%"><sub><sup>config
+        <th style="width:10%"><sub><sup>config  
 service</sup></sub></th>
         <th><sub><sup>container</sup></sub></th>
         <th><sub><sup>container<br>host</sup></sub></th>
@@ -82,8 +82,7 @@ service</sup></sub></th>
 	<th><sub><sup>firewall<br>rule</sup></sub></th>
         <th><sub><sup>function</sup></sub></th>
 	<th><sub><sup>git</sup></sub></th>
-        <th><sub><sup>health
-monitoring</sup></sub></th>
+        <th><sub><sup>health<br>monitoring</sup></sub></th>
 	<th><sub><sup>invoice</sup></sub></th>
         <th><sub><sup>iot</sup></sub></th>
 	<th><sub><sup>key<br>vault</sup></sub></th>
