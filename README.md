@@ -109,9 +109,9 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<td><img src="icons/oci_icon_mobile.svg" width="50"></td>
         <td><img src="icons/oci_icon_monitoring.svg" width="50"></td>
  	<td><img src="icons/oci_icon_onprem.svg" width="50"></td>
-        <td><img src="icons/oci_icon_orchestrator.svg" width="50"></td>
+        <td><img src="icons/oci_icon_orchestrat.svg" width="50"></td>
 	<td><img src="icons/oci_icon_pipeline.svg" width="50"></td>
-        <td><img src="icons/oci_icon_policyenforcement.svg" width="50"></td>
+        <td><img src="icons/oci_icon_policyenforce.svg" width="50"></td>
  	<td><img src="icons/oci_icon_policymanager.svg" width="50"></td>
         <td><img src="icons/oci_icon_queue.svg" width="50"></td>
 	<td><img src="icons/oci_icon_sbom.svg" width="50"></td>
@@ -151,7 +151,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 	<th><sub><sup>shell</sup></sub></th>
         <th><sub><sup>signature<p>job</sup></sub></th>
 	<th><sub><sup>source<p>artifact</sup></sub></th>
-        <th><sub><sup>storage<p>storage</sup></sub></th>
+        <th><sub><sup>storage</sup></sub></th>
     </tr>
         <tr>
 	td><img src="icons/oci_icon_supportpersonnel.svg" width="50"></td>
@@ -160,8 +160,7 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_vnet.svg" width="50"></td>
 	<td><img src="icons/oci_icon_web.svg" width="50"></td>
     </tr>
-<tr>
-	<th><sub><sup>support<p>personnel</sup></sub></th>
+	<tr><th><sub><sup>support<p>personnel</sup></sub></th>
         <th><sub><sup>testing</sup></sub></th>
 	<th><sub><sup>vm</sup></sub></th>
         <th><sub><sup>vnet</sup></sub></th>
