@@ -30,14 +30,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>cloud</sup></sub></th>	
     </tr>
            <tr>
-	<td style="padding-top:10%;"><img src="icons/oci_icon_config.svg" padding="20%" width="50"></td>
-        <td style="padding-top:20%;"><img src="icons/oci_icon_configservice.svg" width="50"></td>
-        <td style="padding-top:20%;"><img src="icons/oci_icon_container.svg" width="50"></td>
-        <td style="padding-top:20%;"><img src="icons/oci_icon_containerhost.svg" width="50"></td>
-        <td style="padding-top:20%;"><img src="icons/oci_icon_containerimage.svg" width="50"></td>
-        <td style="padding-top:20%;"><img src="icons/oci_icon_customer.svg" width="50"></td>
-        <td style="padding-top:20%;"><img src="icons/oci_icon_database.svg" width="50"></td>
-        <td style="padding-top:20%;"><img src="icons/oci_icon_debugging.svg" width="50"></td>
+	<td><img src="icons/oci_icon_config.svg" margin="20%" width="50"></td>
+        <td><img src="icons/oci_icon_configservice.svg" width="50"></td>
+        <td><img src="icons/oci_icon_container.svg" width="50"></td>
+        <td><img src="icons/oci_icon_containerhost.svg" width="50"></td>
+        <td><img src="icons/oci_icon_containerimage.svg" width="50"></td>
+        <td><img src="icons/oci_icon_customer.svg" width="50"></td>
+        <td><img src="icons/oci_icon_database.svg" width="50"></td>
+        <td><img src="icons/oci_icon_debugging.svg" width="50"></td>
    </tr>
 <tr>
 	<th style="width:10%"><sub><sup>config</sup></sub></th>
