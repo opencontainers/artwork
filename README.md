@@ -8,14 +8,14 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
 <tr>
-        <td style="10%"><img src="icons/oci_icon_2fa.svg" width="50"></td>
-        <td style="10%"><img src="icons/oci_icon_api.svg" width="50"></td>
-        <td style="10%"><img src="icons/oci_icon_authentication.svg" width="50"></td>
-        <td><img src="icons/oci_icon_batch.svg" width="50"></td>
-        <td><img src="icons/oci_icon_billing.svg" width="50"></td>
-        <td><img src="icons/oci_icon_cdn.svg" width="50"></td>
-        <td><img src="icons/oci_icon_cli.svg" width="50"></td>
-        <td><img src="icons/oci_icon_cloud.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_2fa.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_api.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_authentication.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_batch.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_billing.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_cdn.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_cli.svg" width="50"></td>
+        <td style="padding-top:5%;"><img src="icons/oci_icon_cloud.svg" width="50"></td>
  	    </tr>
  	<tr>
 	<th style="width:10%"><sub><sup>2fa</sup></sub></th>
