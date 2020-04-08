@@ -99,8 +99,8 @@ This repository contains OCI artwork and logos in a variety of formats.
     </tr>
 <tr>
 	<th><sub><sup>laptop</sup></sub></th>
-        <th><sub><sup>legacymainframe</sup></sub></th>
-	<th><sub><sup>loadbalancer</sup></sub></th>
+        <th><sub><sup>legacy<br>mainframe</sup></sub></th>
+	<th><sub><sup>load<br>balancer</sup></sub></th>
         <th><sub><sup>logging</sup></sub></th>
 	<th><sub><sup>machine<br>learning</sup></sub></th>
         <th><sub><sup>media</sup></sub></th>
