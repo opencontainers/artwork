@@ -56,7 +56,6 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>developer</sup></sub></th>
 	<th><sub><sup>devices</sup></sub></th>
         <th><sub><sup>disk</sup></sub></th>
-
     </tr>
         <tr>
 	<td><img src="icons/oci_icon_distribution.svg" width="50"></td>
@@ -69,7 +68,6 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_healthmonitoring.svg" width="50"></td>
 	<td><img src="icons/oci_icon_invoice.svg" width="50"></td>
         <td><img src="icons/oci_icon_iot.svg" width="50"></td>
-
     </tr>
 <tr>
 	<th><sub><sup>distribution</sup></sub></th>
@@ -82,7 +80,6 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>health<p>monitoring</sup></sub></th>
 	<th><sub><sup>invoice</sup></sub></th>
         <th><sub><sup>iot</sup></sub></th>
-
     </tr>
         <tr>
 	 <td><img src="icons/oci_icon_key vault.svg" width="50"></td>
