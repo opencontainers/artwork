@@ -8,10 +8,10 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
 <tr>
-        <td style="10%"><img src="icons/oci_icon_2fa.svg" width="100"></td>
+        <td style="10%"><img src="icons/oci_icon_2fa.svg" width="125"></td>
         <td style="10%"><img src="icons/oci_icon_api.svg" width="75"></td>
         <td style="10%"><img src="icons/oci_icon_authentication.svg" width="75"></td>
-        <td><img src="icons/oci_icon_batch.svg" width="100"></td>
+        <td><img src="icons/oci_icon_batch.svg" width="75"></td>
         <td><img src="icons/oci_icon_billing.svg" width="100"></td>
         <td><img src="icons/oci_icon_cdn.svg" width="100"></td>
         <td><img src="icons/oci_icon_cli.svg" width="100"></td>
@@ -28,10 +28,10 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th style="width:10%">cloud</th>	
     </tr>
            <tr>
-	<td><img src="icons/oci_icon_cloud.svg" width="100"></td>
+	<td><img src="icons/oci_icon_cloud.svg" width="125"></td>
         <td><img src="icons/oci_icon_configservice.svg" width="75"></td>
         <td><img src="icons/oci_icon_container.svg" width="75"></td>
-        <td><img src="icons/oci_icon_containerhost.svg" width="150"></td>
+        <td><img src="icons/oci_icon_containerhost.svg" width="75"></td>
         <td><img src="icons/oci_icon_containerimage.svg" width="75"></td>
         <td><img src="icons/oci_icon_customer.svg" width="125px"></td>
         <td><img src="icons/oci_icon_database.svg" width="125px"></td>
@@ -48,10 +48,10 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th>debugging</th>
     </tr>
         <tr>
-	<td><img src="icons/oci_icon_desktop.svg" width="100"></td>
+	<td><img src="icons/oci_icon_desktop.svg" width="125"></td>
         <td><img src="icons/oci_icon_developer.svg" width="75px"></td>
- 	<td><img src="icons/oci_icon_devices.svg" width="75px"></td>
-        <td><img src="icons/oci_icon_disk.svg" width="100"></td>
+ 	<td><img src="icons/oci_icon_devices.svg" width="75"></td>
+        <td><img src="icons/oci_icon_disk.svg" width="75"></td>
 	<td><img src="icons/oci_icon_distribution.svg" width="125px"></td>
         <td><img src="icons/oci_icon_docdb.svg" width="125px"></td>
  	<td><img src="icons/oci_icon_file.svg" width="125px"></td>
