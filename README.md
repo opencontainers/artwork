@@ -12,7 +12,7 @@ This repository contains OCI artwork and logos in a variety of formats.
 <tr>
 	<td style="padding-top:10%;"><img src="icons/oci_icon_2fa.svg" style="text-align:center" width="50" padding="10%"></td>
         <td style="padding-top:10%;padding-left:20%;"><img src="icons/oci_icon_api.svg" img align="center" width="50"></td>
-        <td style="padding-top:10%;"><img src="icons/oci_icon_authentication.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;padding-left:20%;"><img src="icons/oci_icon_authentication.svg" img align="center" width="50"></td>
         <td style="padding-top:10%;"><img src="icons/oci_icon_batch.svg" img align="center" width="50"></td>
         <td style="padding-top:10%;"><img src="icons/oci_icon_billing.svg" img align="center" width="50"></td>
         <td style="padding-top:10%;"><img src="icons/oci_icon_cdn.svg" img align="center" width="50"></td>
