@@ -34,7 +34,6 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>config<p>service</sup></sub></th>	
     </tr>
         <tr>
-	
         <td><p><p><img src="icons/oci_icon_container.svg" width="50"></td>
         <td><img src="icons/oci_icon_containerhost.svg" width="50"></td>
         <td><img src="icons/oci_icon_containerimage.svg" width="50"></td>
@@ -45,7 +44,6 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td><img src="icons/oci_icon_developer.svg" width="50"></td>
  	<td><img src="icons/oci_icon_devices.svg" width="50"></td>
         <td><img src="icons/oci_icon_disk.svg" width="50"></td>
-
    </tr>
 <tr>
         <th><sub><sup>container</sup></sub></th>
