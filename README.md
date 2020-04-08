@@ -20,24 +20,24 @@ This repository contains OCI artwork and logos in a variety of formats.
         <td style="padding-top:10%;"><img src="icons/oci_icon_cloud.svg" img align="center" width="50"></td>
  	    </tr>
  	<tr>
-	<th style="width:10%"><sub><sup>2fa</sup></sub></th>
-        <th style="width:10%"><sub><sup>api</sup></sub></th>
-        <th style="width:10%"><sub><sup>authentication</sup></sub></th>
-        <th style="width:10%"><sub><sup>batch</sup></sub></th>
-        <th style="width:10%"><sub><sup>billing</sup></sub></th>
-        <th style="width:10%"><sub><sup>cdn</sup></sub></th>
-  	<th style="width:10%"><sub><sup>cli</sup></sub></th>
-        <th style="width:10%"><sub><sup>cloud</sup></sub></th>	
+	<th><sub><sup>2fa</sup></sub></th>
+        <th><sub><sup>api</sup></sub></th>
+        <th><sub><sup>authentication</sup></sub></th>
+        <th><sub><sup>batch</sup></sub></th>
+        <th><sub><sup>billing</sup></sub></th>
+        <th><sub><sup>cdn</sup></sub></th>
+  	<th><sub><sup>cli</sup></sub></th>
+        <th><sub><sup>cloud</sup></sub></th>	
     </tr>
            <tr>
-	<td><img src="icons/oci_icon_cloud.svg" width="50"></td>
-        <td><img src="icons/oci_icon_configservice.svg" width="50"></td>
-        <td><img src="icons/oci_icon_container.svg" width="50"></td>
-        <td><img src="icons/oci_icon_containerhost.svg" width="50"></td>
-        <td><img src="icons/oci_icon_containerimage.svg" width="50"></td>
-        <td><img src="icons/oci_icon_customer.svg" width="50"></td>
-        <td><img src="icons/oci_icon_database.svg" width="50"></td>
-        <td><img src="icons/oci_icon_debugging.svg" width="50"></td>
+	<td style="padding-top:10%;"><img src="icons/oci_icon_cloud.svg" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_configservice.svg" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_container.svg" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_containerhost.svg" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_containerimage.svg" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_customer.svg" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_database.svg" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_debugging.svg" width="50"></td>
    </tr>
 <tr>
 	<th style="width:10%"><sub><sup>config</sup></sub></th>
