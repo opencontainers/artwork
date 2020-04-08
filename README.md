@@ -10,14 +10,14 @@ This repository contains OCI artwork and logos in a variety of formats.
 
 <table>
 <tr>
-	<td style="padding-top:5%;"><img src="icons/oci_icon_2fa.svg" style="text-align:center" width="50" padding="10%"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_api.svg" img align="center" width="50"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_authentication.svg" img align="center" width="50"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_batch.svg" img align="center" width="50"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_billing.svg" img align="center" width="50"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_cdn.svg" img align="center" width="50"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_cli.svg" img align="center" width="50"></td>
-        <td style="padding-top:5%;"><img src="icons/oci_icon_cloud.svg" img align="center" width="50"></td>
+	<td style="padding-top:10%;"><img src="icons/oci_icon_2fa.svg" style="text-align:center" width="50" padding="10%"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_api.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_authentication.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_batch.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_billing.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_cdn.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_cli.svg" img align="center" width="50"></td>
+        <td style="padding-top:10%;"><img src="icons/oci_icon_cloud.svg" img align="center" width="50"></td>
  	    </tr>
  	<tr>
 	<th style="width:10%"><sub><sup>2fa</sup></sub></th>
