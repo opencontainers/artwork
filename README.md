@@ -108,14 +108,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>message</sup></sub></th>
     </tr>
         <tr>
-	<td><img src="icons/oci_icon_mobile.svg" width="50"></td>
-        <td><img src="icons/oci_icon_monitoring.svg" width="50"></td>
- 	<td><img src="icons/oci_icon_onprem.svg" width="50"></td>
-        <td><img src="icons/oci_icon_orchestrator.svg" width="50"></td>
-	<td><img src="icons/oci_icon_pipeline.svg" width="50"></td>
-        <td><img src="icons/oci_icon_policyenforcement.svg" width="50"></td>
- 	<td><img src="icons/oci_icon_policymanager.svg" width="50"></td>
-        <td><img src="icons/oci_icon_queue.svg" width="50"></td>
+	<td><img src="icons/oci_icon_mobile.svg" width="75"></td>
+        <td><img src="icons/oci_icon_monitoring.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_onprem.svg" width="75"></td>
+        <td><img src="icons/oci_icon_orchestrator.svg" width="75"></td>
+	<td><img src="icons/oci_icon_pipeline.svg" width="75"></td>
+        <td><img src="icons/oci_icon_policyenforcement.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_policymanager.svg" width="75"></td>
+        <td><img src="icons/oci_icon_queue.svg" width="75"></td>
     </tr>
 <tr>
 	<th><sub><sup>mobile</sup></sub></th>
@@ -128,14 +128,14 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>queue</sup></sub></th>
     </tr>
         <tr>
-	<td><img src="icons/oci_icon_sbom.svg" width="50"></td>
-        <td><img src="icons/oci_icon_scheduledjob.svg" width="50"></td>
- 	<td><img src="icons/oci_icon_sdk.svg" width="50"></td>
-        <td><img src="icons/oci_icon_securityscanning.svg" width="50"></td>
-	<td><img src="icons/oci_icon_serverdesk.svg" width="50"></td>
-        <td><img src="icons/oci_icon_serverless.svg" width="50"></td>
- 	<td><img src="icons/oci_icon_serverrack.svg" width="50"></td>
-        <td><img src="icons/oci_icon_service.svg" width="50"></td>
+	<td><img src="icons/oci_icon_sbom.svg" width="75"></td>
+        <td><img src="icons/oci_icon_scheduledjob.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_sdk.svg" width="75"></td>
+        <td><img src="icons/oci_icon_securityscanning.svg" width="75"></td>
+	<td><img src="icons/oci_icon_serverdesk.svg" width="75"></td>
+        <td><img src="icons/oci_icon_serverless.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_serverrack.svg" width="75"></td>
+        <td><img src="icons/oci_icon_service.svg" width="75"></td>
     </tr>
 <tr>
 	<th><sub><sup>sbom</sup></sub></th>
@@ -146,5 +146,25 @@ This repository contains OCI artwork and logos in a variety of formats.
         <th><sub><sup>serverless</sup></sub></th>
 	<th><sub><sup>serverrack</sup></sub></th>
         <th><sub><sup>service</sup></sub></th>
+    </tr>
+        <tr>
+	<td><img src="icons/oci_icon_shell.svg" width="75"></td>
+        <td><img src="icons/oci_icon_signature.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_sourceartifact.svg" width="75"></td>
+        <td><img src="icons/oci_icon_storage.svg" width="75"></td>
+	<td><img src="icons/oci_icon_supportpersonnel.svg" width="75"></td>
+        <td><img src="icons/oci_icon_testing.svg" width="75"></td>
+ 	<td><img src="icons/oci_icon_vm.svg" width="75"></td>
+        <td><img src="icons/oci_icon_vnet.svg" width="75"></td>
+    </tr>
+<tr>
+	<th><sub><sup>shell</sup></sub></th>
+        <th><sub><sup>signature<br>job</sup></sub></th>
+	<th><sub><sup>source<br>artifact.</sup></sub></th>
+        <th><sub><sup>storage<br>scanning</sup></sub></th>
+	<th><sub><sup>support<b>personnel</sup></sub></th>
+        <th><sub><sup>testing</sup></sub></th>
+	<th><sub><sup>vm</sup></sub></th>
+        <th><sub><sup>vnet</sup></sub></th>
     </tr>
 </table>
